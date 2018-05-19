@@ -1,6 +1,4 @@
-##About
-
-This app uses:
+## About
 
 - React, React-router-dom
 - Bootstrap 4, Awesome font
